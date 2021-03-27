@@ -1,7 +1,7 @@
 
 double Square(double x)
 {
-	return x*x;
+	return (x*x);
 }
 
 double Cube(double x)
@@ -12,4 +12,9 @@ double Cube(double x)
 double Divide(double x, double y)
 {
 	return (x/y);
+}
+
+double Add(double x, double y)
+{
+	return (x+y);
 }
