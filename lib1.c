@@ -13,3 +13,7 @@ double Divide(double x, double y)
 {
 	return x/y;
 }
+double Subtact(double x, double y)
+{
+	return x-y;
+}
