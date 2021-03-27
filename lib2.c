@@ -11,5 +11,5 @@ double Cube(double x)
 
 double Divide(double x, double y)
 {
-	return x/y;
+	return (x/y);
 }
