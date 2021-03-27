@@ -6,7 +6,7 @@ double Square(double x)
 
 double Cube(double x)
 {
-	return x*x*x;
+	return (x*x*x);
 }
 
 double Divide(double x, double y)
