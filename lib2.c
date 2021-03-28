@@ -18,3 +18,9 @@ double Add(double x, double y)
 {
 	return (x+y);
 }
+
+
+double Add2(double x, double y)
+{
+	return (x+y);
+}
